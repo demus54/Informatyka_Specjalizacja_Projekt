@@ -1,0 +1,27 @@
+D- postac porusza sie w prawo
+
+A- postac porusza sie w lewo
+
+W/spacja- postac skacze
+
+S- postac kuca
+
+Escape- wyjscie do menu pauzy
+
+I- ekwipunek
+
+Enter- podniesienie broni le¿¹cej na ziemi
+
+1- g³ówna broñ
+
+2- broñ poboczna
+
+3-9- pozosta³e bronie/ przedmioty
+
+Lewy przycisk myszy- atak
+
+Prawy przycisk myszy- obrona
+
+D³ugie przytrzymanie lewego przycisku myszy-mocny atak
+
+E- interakcje ze œwiatem gry(drzwi, skrzynki)
